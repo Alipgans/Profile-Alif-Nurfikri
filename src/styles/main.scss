@@ -1,0 +1,12 @@
+// src/styles/main.scss
+:root {
+  --bg-color: #000;
+  --text-color: #fff;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  margin: 0;
+  overflow-x: hidden;
+}
