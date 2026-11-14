@@ -5,7 +5,9 @@
     <main>
       <SectionOne />
       <SectionTwo />
-      <SectionPengalaman /> 
+      <SectionPengalaman />
+      <SectionPendidikan />
+      <SectionPelatihan />
       <SectionEtc />
     </main>
 
